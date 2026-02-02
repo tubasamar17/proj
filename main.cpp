@@ -11,7 +11,7 @@ int main() {
     int result = add(num1, num2);
     
     
-    cout << "Sum of " << num1 << " and " << num2 << " is: " << result << endl;
-    cout << "Sum of " << num1 << " and " << num2 << " is: " << result << endl;
+    
+    cout << "Sum of " << num1 << " and " << num2 << result << endl;
     return 0;
 } 
